@@ -1,0 +1,11 @@
+{
+  "name": "styx",
+  "format": "1",
+  "version": "1.0.0",
+  "creator": "warmans",
+  "summary": "Dark theme for ExtJS 4",
+  "detailedDescription": "Dark theme of ExtJS 4 based on neptune.",
+  "type": "theme",
+  "extend": "ext-theme-neptune",
+  "local": true
+}
